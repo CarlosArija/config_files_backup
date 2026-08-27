@@ -8,4 +8,4 @@ Archive of config files I like
 
 - NeoVim
 
-- Fish shell
+- Fish shell (requires [fish_logo](https://github.com/laughedelic/fish_logo))
