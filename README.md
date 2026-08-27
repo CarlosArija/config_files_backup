@@ -2,7 +2,10 @@
 
 Archive of config files I like
 
-Alacritty
-Qtile
-NeoVim
-Fish shell
+- Alacritty
+
+- Qtile
+
+- NeoVim
+
+- Fish shell
